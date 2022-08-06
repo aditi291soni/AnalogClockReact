@@ -43,7 +43,7 @@ useEffect(() => {
   }
   
   
-}, [sec]);
+}, [date]);
 
 
   return (
